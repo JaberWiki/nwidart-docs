@@ -15,3 +15,4 @@ Nicolas Widart is a freelance developer specialising in Laravel development and 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
